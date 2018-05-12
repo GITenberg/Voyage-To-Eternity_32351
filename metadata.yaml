@@ -1,0 +1,50 @@
+_repo: Voyage-To-Eternity_32351
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Calle, Paul
+    aliases:
+    - Calle
+    - Callé
+    - Callé, Paul
+    birthdate: &id001 1928
+    deathdate: 2010
+    gutenberg_agent_id: '41054'
+    url: http://www.gutenberg.org/2009/agents/41054
+covers:
+- cover_type: archival
+  image_path: 32351-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Chase, Adam
+    - Ridgway, Jason
+    - Lesser, Milton
+    - Thames, C. H.
+    - Wilder, Stephen
+    birthdate: *id001
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: American-born Stephen Marlowe was a prolific writer who made his mark
+  in several genres, including science fiction. In the gripping page-turner Voyage
+  to Eternity, the galaxy is engaged in a seemingly endless war of epic proportions.
+  When young Christopher Temple is called to serve, he finds himself torn between
+  a sense of duty and a desperate desire to remain with his beloved Stephanie. Will
+  patriotism or romance win out?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Voyage To Eternity
+url: http://www.gutenberg.org/ebooks/32351
