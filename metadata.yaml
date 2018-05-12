@@ -7,7 +7,7 @@ contributor:
     - Calle
     - Callé
     - Callé, Paul
-    birthdate: &id001 1928
+    birthdate: 1928
     deathdate: 2010
     gutenberg_agent_id: '41054'
     url: http://www.gutenberg.org/2009/agents/41054
@@ -23,7 +23,7 @@ creator:
     - Lesser, Milton
     - Thames, C. H.
     - Wilder, Stephen
-    birthdate: *id001
+    birthdate: 1928
     deathdate: 2008
     gutenberg_agent_id: '32369'
     url: http://www.gutenberg.org/2009/agents/32369
@@ -34,6 +34,8 @@ description: American-born Stephen Marlowe was a prolific writer who made his ma
   When young Christopher Temple is called to serve, he finds himself torn between
   a sense of duty and a desperate desire to remain with his beloved Stephanie. Will
   patriotism or romance win out?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32351#Voyage-To-Eternity
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-12'
 gutenberg_type: Text
